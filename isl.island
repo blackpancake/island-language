@@ -1,0 +1,16 @@
+come to the island
+god create fish
+god create coconut
+need coconut
+god create tree
+get 2 tree
+use tree fray coconut
+judge have 0 coconut then
+    get 89 fish
+    share human fish
+end
+judge have 0 fish then
+    get 78 fish
+    share human fish
+end
+leave the island
